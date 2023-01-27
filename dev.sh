@@ -11,3 +11,5 @@ echo 'Add a line for dev'
 echo 'Add another dev line'
 
 echo 'Add a third line for dev'
+
+echo 'Adding a final line for dev'
